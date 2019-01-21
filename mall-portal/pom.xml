@@ -95,6 +95,7 @@
     </dependencies>
 
     <build>
+        <finalName>mall-portal</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>

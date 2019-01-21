@@ -105,6 +105,8 @@
         </dependency>
     </dependencies>
     <build>
+        <!--增加filename，增加打包名字-->
+        <finalName>mall-admin</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
